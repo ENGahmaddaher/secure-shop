@@ -1,1 +1,1 @@
-# secure-shop
+# Secure Shop
